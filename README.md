@@ -13,9 +13,8 @@ The Movie Search Application is an iOS app developed using SwiftUI that allows u
 ## Screenshots
 
 Here are some screenshots of the app:
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-
+<img src="images/screenshot1.png" alt="Screenshot1" width="300"/>
+<img src="images/screenshot2.png" alt="Screenshot2" width="300"/>
 ## Requirements
 
 - iOS 14.0 or later.
