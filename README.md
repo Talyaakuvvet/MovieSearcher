@@ -24,4 +24,4 @@ Here are some screenshots of the app:
 1. Clone the repository or download the ZIP file.
 
    ```bash
-   git clone https://github.com/your_username/FilmAramaUyg.git
+   git clone https://github.com//MovieSearcher.git
