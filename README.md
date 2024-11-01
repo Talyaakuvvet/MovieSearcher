@@ -2,7 +2,7 @@
 
 The Movie Search Application is an iOS app developed using SwiftUI that allows users to view film details from the IMDb database. Users can search for specific film information by entering the IMDb ID of the movie.
 
-![Placeholder](images/placeholder.jpg)
+![Placeholder](MovieSearcher/placeholder.jpg)
 
 ## Features
 
